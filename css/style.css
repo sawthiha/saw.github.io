@@ -222,6 +222,12 @@ a:active {
       background-repeat: no-repeat;
   }
 
+  #about .my-auto  {
+    background-color: rgba(20, 20, 20, 0.78);
+    padding: 21px 0px 21px 34px;
+    border-radius: 21px;
+  }
+
   #about h1 {
     /*font-size: 100%;*/
   }
